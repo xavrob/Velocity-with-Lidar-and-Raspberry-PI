@@ -23,12 +23,14 @@ Cars reflect the laser back, only if you measure the distance in the front of th
 You will get no or bad result if you measure beside the road.
 This means this project works only in a road with a curve.
 You get a very good result (diffuse reflection) with bikers, even beside the road.
+
 Each second a measurement means :
 at a velocity of 60km/h a difference of 17 meter
 120km/h : 33 meter
 The LIDAR works till 40 meter.
 An higher velocity is not possible to measure, without reducing the loop-time of one second.
 But less than one second gives more measurement of the same car.
+
 The velocity calculated with the module himself, is not accurate.
 As it is only one byte, the max speed is 36 km/h.
 You can get an higher velocity in reducing the time, but the accuracy is very low.
