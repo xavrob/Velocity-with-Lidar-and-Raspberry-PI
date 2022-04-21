@@ -25,7 +25,7 @@ This means this project works only in a road with a curve.
 You get a very good result (diffuse reflection) with bikers, even beside the road.
 
 Each second a measurement means :
-at a velocity of 60km/h a difference of 17 meter
+at a velocity of 60km/h a difference of 17 meter; 
 120km/h : 33 meter
 The LIDAR works till 40 meter.
 An higher velocity is not possible to measure, without reducing the loop-time of one second.
