@@ -4,16 +4,33 @@ log speed in CSV-file with Lidar and Raspberry PI
 ## Source
 (https://github.com/garmin/LIDARLite_RaspberryPi_Library/)
 
-(https://circuitpython.readthedocs.io/projects/lidarlite/en/latest/api.html )
-
-(https://github.com/adafruit/Adafruit_CircuitPython_LIDARLite )
-
 (http://static.garmin.com/pumac/LIDAR_Lite_v3_Operation_Manual_and_Technical_Specifications.pdf )
 
 ## Hardware
-https://www.kiwi-electronics.nl/nl/lidar-lite-v3-afstandsmeter-2814 
+(https://www.kiwi-electronics.nl/nl/lidar-lite-v3-afstandsmeter-2814 )
 
-https://www.sparkfun.com/products/14032
+(https://www.sparkfun.com/products/14032)
+
+
+(https://www.sossolutions.nl/raspberry-pi-3a )
+
+(https://www.kiwi-electronics.nl/nl/raspberry-pi-3-model-aplus-3913)
+
+
+(https://www.sossolutions.nl/raspberry-camera-module-v2 )
+
+(https://www.kiwi-electronics.nl/nl/raspberry-pi-camera-module-2-8mp-2359)
+
+
+(https://www.allekabels.be/zwakstroom/7375/1052659/abs-behuizing-222x146x75m.html )
+
+
+(https://www.allekabels.be/condensator/1266/4262/condensator.html )
+
+
+(https://www.bol.com/be/nl/p/anker-powercore-powerbank-20-100-mah-zwart/9200000074893191/)
+
+
 ## Software
 ### Python Program
 The principal is to measure 2 times a distance in a certain time.
