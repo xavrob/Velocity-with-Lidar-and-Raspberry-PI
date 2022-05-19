@@ -6,6 +6,8 @@ log speed in CSV-file with Lidar and Raspberry PI
 
 (http://static.garmin.com/pumac/LIDAR_Lite_v3_Operation_Manual_and_Technical_Specifications.pdf )
 
+(https://github.com/Sanderi44/Lidar-Lite/blob/master/python/lidar_lite.py)
+
 ## Hardware
 (https://www.kiwi-electronics.nl/nl/lidar-lite-v3-afstandsmeter-2814 )
 
